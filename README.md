@@ -18,7 +18,7 @@ Demostración de desarrollo con arquitectura **Multiagente**:
 * **Ubicación:** Av. Eugenio Garza Sada Sur 2804, Col. Alta Vista, Monterrey, N.L., CP 64840 *(frente al Campus Monterrey del Tec de Monterrey)*
 * **Teléfono Principal:** `(81) 8358-4949`
 * **WhatsApp / Citas:** `(81) 1518-9134`
-* **Correo de Contacto:** `pepetec62@hotmail.com`
+* **Correo de Contacto:** `veterinariatec@hotmail.com`
 * **Director Técnico:** MVZ José Gerardo Hernández Alanís
 * **Horarios:** Lun–Vie 9:00 a 19:30 | Sáb 9:00 a 16:00
 
