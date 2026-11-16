@@ -1,0 +1,21 @@
+{
+  "name": "veterinaria-tec",
+  "version": "1.0.0",
+  "description": "Landing page y plataforma web para Clínica Veterinaria TEC en Monterrey, NL",
+  "main": "index.html",
+  "scripts": {
+    "test": "node scripts/audit.js",
+    "lint:secrets": "node scripts/audit.js",
+    "lint:html": "npx htmlhint index.html",
+    "lint:redundancy": "npx jscpd . --threshold 10 --ignore \"node_modules,package-lock.json,.git,scripts\""
+  },
+  "keywords": [
+    "veterinaria",
+    "distritotec",
+    "monterrey",
+    "landing-page",
+    "html5"
+  ],
+  "author": "Ian Leon <a01785078@tec.mx>",
+  "license": "MIT"
+}
